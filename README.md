@@ -29,3 +29,22 @@ is there any correlation between gender and smoking?
     - avg age for each region
     - avg age for smoker status
 
+- gender related
+    - distribution of gender, overall and for each region.
+
+- bmi related
+    - is there anything as avg bmi?
+        - if there is, then compare gender-wise and region-wise avg bmi
+
+- children related
+    - distribution of children count
+
+- smoker related
+    - ..
+
+- region related
+    - distribution of region count
+    - region-wise gender count, smoker count
+
+- charges related
+    - avg charges, overall and per region and per gender and per smoker status.
