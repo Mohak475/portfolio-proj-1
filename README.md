@@ -21,12 +21,15 @@ compare the smoker counts for each region.
 is there any correlation between region and smoking?
 is there any correlation between age and smoking?
 
+-- age-group wise avg number of children in each region..
+
 ### descriptive statistics:
 
 
 - bmi related
     - is there anything as avg bmi?
         - if there is, then compare gender-wise and region-wise avg bmi
+    - are people with more children also more obese?
 
 - children related
     - distribution of children count
